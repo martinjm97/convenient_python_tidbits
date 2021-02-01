@@ -1,1 +1,1 @@
-# convenient_python_tidbits
+# Convenient Python Tidbits
